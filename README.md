@@ -11,7 +11,7 @@ Bem-vindo ao Gerenciador de Tarefas Django! Este é um aplicativo simples de lis
 ## Instruções de Configuração
 
 1. Clone o Repositório:
- - git clone https://github.com/seu-usuario/gerenciador-de-tarefas-django.git
+ - git clone `https://github.com/iansendela/todolist.git`
    cd gerenciador-de-tarefas-django
 
 
