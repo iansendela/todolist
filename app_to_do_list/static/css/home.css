@@ -1,0 +1,42 @@
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 12px;
+    margin-bottom: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+    width: 100%;
+}
+
+.card:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+.estrela {
+    color: #f8d004;
+    font-size: 1.9em;
+    margin-bottom: 10px; /* Adicionado espaço abaixo da estrela */
+}
+
+
+.card p {
+    margin-top: 10px; /* Adicionado espaço acima do título */
+    color: #333;
+    font-size: 1.1em;
+    
+}
+
+.tarefa{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+}
+
+#Titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
